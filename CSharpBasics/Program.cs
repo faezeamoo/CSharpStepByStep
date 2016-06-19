@@ -14,6 +14,7 @@ namespace CSharpBasics
             //faeze made this change to test commit functionality
 
             //this code posted to provide hotfix for bug (x)
+            //another issue fixed for that matter
         }
     }
 }
